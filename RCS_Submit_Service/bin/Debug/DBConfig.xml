@@ -1,0 +1,7 @@
+<Ora_MySQL_DB_Config>
+	<MySQLDBConnString>Data Source=localhost;Database=test_demo;User ID=root;Password=Gold420@Gold420;Pooling=true;Min Pool Size=0;Max Pool Size=50;Connection Timeout=15;</MySQLDBConnString>
+	<ProcessCnt>10</ProcessCnt>
+	<FetchRecords>10</FetchRecords>
+	<!--RCSUrl>https://asia-rcsbusinessmessaging.googleapis.com</RCSUrl-->	
+	<RCSUrl>api.virbm.in</RCSUrl>	
+</Ora_MySQL_DB_Config>
